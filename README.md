@@ -16,3 +16,7 @@ High-Fidelity Wireframes: More detailed and refined versions, often closer to th
 
 ## Type of wireframe
 The type of wireframe is high-fidelity wireframe cause the design is more detailed and specific
+
+
+## Wireframing in Figma
+Figma is browser-based, so sharing your wireframes is as easy as sharing a link. Your team can leave comments right on the file so you can easily get feedback and field questions.
