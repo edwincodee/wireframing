@@ -29,3 +29,14 @@ Wireframing is an important step in the software development process. It creates
 Wireframes aid in development by clarifying functionality and layout, guiding design and development, identifying usability issues, and facilitating effective communication among team members.
 
 Finally, wireframing ensures that everyone is on the same page, leading to a more focused, user-centred, and efficient development process.
+
+## Real-World Wireframing Scenario
+
+When designing a hotel booking platform, the wireframes revealed that users had to go through five steps just to confirm a booking. During early review sessions, stakeholders recognised that this flow was excessively long and could frustrate users.
+
+Before writing any code, the team used wireframing to reduce the process to three simple steps: search, select, and confirm. They also added a progress bar and a summary preview, which increased clarity and trust.
+
+This change resulted in a more seamless user experience and increased user retention following launch.
+
+
+Wireframing enabled early detection of usability flaws, allowing for faster iteration and clearer communication. It was critical in delivering an easy-to-use, efficient, and intuitive product.
